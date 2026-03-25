@@ -44,4 +44,3 @@ https://www.kaggle.com/datasets/hasibalmuzdadid/shoe-vs-sandal-vs-boot-dataset-1
 
 <img width="547" height="413" alt="loss_curve" src="images/loss_curve.png" />
 
----
